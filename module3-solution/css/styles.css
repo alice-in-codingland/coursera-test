@@ -1,0 +1,9 @@
+.content-section {
+  height: 1000px;
+  background-color: mintcream;
+  padding: 20px;
+}
+
+.content-section h2 {
+  text-align: center;
+}
